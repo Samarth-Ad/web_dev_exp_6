@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 // Functional Component with Props
 function Greeting(props) {
-  return <h2>Hello, {props.name} 👋</h2>;
+  return <h2>Hello, {props.name} </h2>;
 }
 
 // List Component demonstrating "Keys"
